@@ -1,0 +1,12 @@
+name: "Homework 10"
+output_dir: "."
+navbar:
+  title: "Jason Kang Homework 10"
+  left:
+    - text: "Homework10"
+      href: index.html
+
+output:
+  html_document:
+    theme: simplex
+    highlight: textmate
